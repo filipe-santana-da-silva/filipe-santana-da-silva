@@ -38,10 +38,7 @@ Atualmente, estou em busca de oportunidades para colaborar com empresas, agênci
    &nbsp;&nbsp;&nbsp;
   <img align="center" alt="firebase" width="120px" height="120px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firebase/firebase-original-wordmark.svg" />
 </p>
-
-&nbsp;&nbsp;&nbsp;
  
-<img src="https://raw.githubusercontent.com/filipe-santana-da-silva/filipe-santana-da-silva/output/snake.svg" alt="Snake animation" />   
 <h3>Contatos</h3>
 <div>
   <p>Email: filipesantana859@gmail.com</p> 
