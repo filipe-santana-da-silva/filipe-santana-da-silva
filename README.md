@@ -9,8 +9,10 @@ Meu foco é criar soluções leves, responsivas e acessíveis, sempre buscando b
 Atualmente, estou em busca de oportunidades para colaborar com empresas, agências ou empreendedores que valorizem tecnologia, criatividade e entrega de valor. Estou sempre pronto para aprender, contribuir e crescer junto com cada projeto.
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=filipe-santana-da-silva&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="status graph"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=filipe-santana-da-silva&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="status graph"/> 
+  &nbsp;&nbsp;&nbsp;
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=filipe-santana-da-silva&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"/>
+  
 </div>
 
 <h2>Tecnologias que eu utilizo</h2> 
@@ -33,20 +35,16 @@ Atualmente, estou em busca de oportunidades para colaborar com empresas, agênci
   <img align="center" alt="postgres" width="120px" height="120px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original-wordmark.svg" />
   &nbsp;&nbsp;&nbsp;
   <img align="center" alt="mongoDB" width="120px" height="120px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original-wordmark.svg" />
+   &nbsp;&nbsp;&nbsp;
+  <img align="center" alt="firebase" width="120px" height="120px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firebase/firebase-original-wordmark.svg" />
 </p>
+
+&nbsp;&nbsp;&nbsp;
+ 
+<img src="https://raw.githubusercontent.com/filipe-santana-da-silva/filipe-santana-da-silva/output/snake.svg" alt="Snake animation" />   
 <h3>Contatos</h3>
 <div>
   <p>Email: filipesantana859@gmail.com</p> 
   <p>github: https://github.com/filipe-santana-da-silva/</p>
 </div>
-&nbsp;&nbsp;&nbsp;
-<div align="center">
-  <img src="https://img.shields.io/badge/Next.js-black?logo=next.js&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Node.js-6DA55F?logo=node.js&logoColor=white"/>
-  <img src="https://img.shields.io/badge/React-%2320232a.svg?logo=react&logoColor=%2361DAFB"/>
-  <img src="https://img.shields.io/badge/Tailwind%20CSS-%2338B2AC.svg?logo=tailwind-css&logoColor=white"/>
-  <img src="https://img.shields.io/badge/shadcn%2Fui-000?logo=shadcnui&logoColor=fff"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000"/>
-</div>
-<img src="https://raw.githubusercontent.com/filipe-santana-da-silva/filipe-santana-da-silva/output/snake.svg" alt="Snake animation" />   
           
