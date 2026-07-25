@@ -9,7 +9,6 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&width=435&lines=Front-end+Developer;React+%7C+Next.js+%7C+TypeScript;Building+clean%2C+accessible+interfaces)](https://git.io/typing-svg)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/filipe-santana-bb113332b/)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/landing_dev/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&fs=1&to=filipesantana859@gmail.com)
 
 </div>
@@ -34,7 +33,7 @@ Junior front-end developer based in Indaiatuba, SP (Brazil), focused on building
 
 Currently open to junior/entry-level front-end roles, freelance work, and collaborations with companies, agencies, or founders. Always learning and looking for the next project to build.
 
-**Contact:** filipesantana859@gmail.com · [LinkedIn](https://www.linkedin.com/in/filipe-santana-bb113332b/) · [Instagram](https://www.instagram.com/landing_dev/)
+**Contact:** filipesantana859@gmail.com · [LinkedIn](https://www.linkedin.com/in/filipe-santana-bb113332b/)
 
 <p align="center">
   <img src="https://github-stats-extended.vercel.app/api?username=filipe-santana-da-silva&show_icons=true&count_private=true&theme=dracula&hide_border=true" alt="GitHub stats" height="165"/>
@@ -61,4 +60,4 @@ Desenvolvedor web júnior, de Indaiatuba, SP, focado em construir interfaces rá
 
 Atualmente em busca de oportunidades como desenvolvedor front-end júnior, freelas ou colaborações com empresas, agências ou empreendedores. Sempre aprendendo e em busca do próximo projeto.
 
-**Contato:** filipesantana859@gmail.com · [LinkedIn](https://www.linkedin.com/in/filipe-santana-bb113332b/) · [Instagram](https://www.instagram.com/landing_dev/)
+**Contato:** filipesantana859@gmail.com · [LinkedIn](https://www.linkedin.com/in/filipe-santana-bb113332b/)
