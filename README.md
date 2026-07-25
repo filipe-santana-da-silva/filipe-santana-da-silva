@@ -1,47 +1,62 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=2468a8&height=120&section=header"/>
-<h1>Filipe Santana 🍃๋࣭ ⭑✮💻₊ 🌐</h1>
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=30&pause=1000&width=435&lines=Desenvolvedor+J%C3%BAnior" alt="Typing SVG" /></a>
-
-🎯 Sou desenvolvedor web júnior apaixonado por transformar ideias em interfaces funcionais e intuitivas. Tenho experiência com HTML, CSS, JavaScript e frameworks como React e Next.js, além de conhecimentos em integração com APIs e deploy em plataformas como Vercel e Railway.
-
-Meu foco é criar soluções leves, responsivas e acessíveis, sempre buscando boas práticas de código e evolução constante. Já participei de projetos como landing pages, sites institucionais e sistemas simples de agendamento, com atenção especial à experiência do usuário.
-
-Atualmente, estou em busca de oportunidades para colaborar com empresas, agências ou empreendedores que valorizem tecnologia, criatividade e entrega de valor. Estou sempre pronto para aprender, contribuir e crescer junto com cada projeto.
-
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=filipe-santana-da-silva&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="status graph"/> 
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=filipe-santana-da-silva&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"/>
-  
+
+# Filipe Santana da Silva
+
+### Front-end Developer | React · Next.js · TypeScript
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&width=435&lines=Front-end+Developer;React+%7C+Next.js+%7C+TypeScript;Building+clean%2C+accessible+interfaces)](https://git.io/typing-svg)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/filipe-santana-bb113332b/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/landing_dev/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:filipesantana859@gmail.com)
+
 </div>
 
-<h2>Tecnologias que eu utilizo</h2> 
-<h3>Frameworks e bibliotecas</h3>
+---
+
+## 🇬🇧 English
+
+Junior front-end developer based in Indaiatuba, SP (Brazil), focused on building fast, accessible, responsive interfaces with React and Next.js. Comfortable across the stack when needed — from API integration to deployment.
+
+**What I work with:**
+- Front-end: HTML, CSS, JavaScript, TypeScript, React, Next.js, Tailwind CSS
+- Back-end: Node.js, NestJS
+- Databases: PostgreSQL, MongoDB, Firebase
+- Deployment: Vercel, Railway
+
+**Featured projects:**
+- [`odontopro`](https://github.com/filipe-santana-da-silva/odontopro) — dental clinic scheduling system (TypeScript)
+- [`devcontrole`](https://github.com/filipe-santana-da-silva/devcontrole) — internal tool for managing users and support tickets (TypeScript)
+- [`pizzaria-mobile`](https://github.com/filipe-santana-da-silva/pizzaria-mobile) — mobile ordering app for a pizzeria (TypeScript)
+- [`politica`](https://github.com/filipe-santana-da-silva/politica) — privacy policy page for a browser extension (HTML)
+
+Currently open to junior/entry-level front-end roles, freelance work, and collaborations with companies, agencies, or founders. Always learning and looking for the next project to build.
+
+**Contact:** filipesantana859@gmail.com · [LinkedIn](https://www.linkedin.com/in/filipe-santana-bb113332b/) · [Instagram](https://www.instagram.com/landing_dev/)
+
 <p align="center">
-  <img align="center" alt="nest.js" width="100px" height="100px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nestjs/nestjs-original.svg" />
-  &nbsp;&nbsp;&nbsp;
-  <img align="center" alt="next.js" width="120px" height="120px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original-wordmark.svg" />
-  &nbsp;&nbsp;&nbsp;
-  <img align="center" alt="tailwindcss" width="120px" height="120px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" />
-  &nbsp;&nbsp;&nbsp;
-  <img align="center" alt="typescript" width="120px" height="120px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" />
-  &nbsp;&nbsp;&nbsp;
-  <img align="center" alt="react" width="120px" height="120px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
-  &nbsp;&nbsp;&nbsp;
-  <img align="center" alt="node" width="120px" height="120px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" />
+  <img src="https://github-readme-stats.vercel.app/api?username=filipe-santana-da-silva&show_icons=true&count_private=true&theme=dracula&hide_border=true" alt="GitHub stats" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=filipe-santana-da-silva&layout=compact&hide_border=true&theme=dracula" alt="Top languages" height="165"/>
 </p>
-<h3>Banco de Dados</h3>
-<p align="center">
-  <img align="center" alt="postgres" width="120px" height="120px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original-wordmark.svg" />
-  &nbsp;&nbsp;&nbsp;
-  <img align="center" alt="mongoDB" width="120px" height="120px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original-wordmark.svg" />
-   &nbsp;&nbsp;&nbsp;
-  <img align="center" alt="firebase" width="120px" height="120px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firebase/firebase-original-wordmark.svg" />
-</p>
- 
-<h3>Contatos</h3>
-<div>
-  <p>Email: filipesantana859@gmail.com</p> 
-  <p>github: https://github.com/filipe-santana-da-silva/</p>
-</div>
-          
+
+---
+
+## 🇧🇷 Português
+
+Desenvolvedor web júnior, de Indaiatuba, SP, focado em construir interfaces rápidas, acessíveis e responsivas com React e Next.js. Também transito pelo restante da stack quando o projeto exige — integração com APIs, banco de dados e deploy.
+
+**Tecnologias:**
+- Front-end: HTML, CSS, JavaScript, TypeScript, React, Next.js, Tailwind CSS
+- Back-end: Node.js, NestJS
+- Bancos de dados: PostgreSQL, MongoDB, Firebase
+- Deploy: Vercel, Railway
+
+**Projetos em destaque:**
+- [`odontopro`](https://github.com/filipe-santana-da-silva/odontopro) — sistema de agendamento para clínica odontológica (TypeScript)
+- [`devcontrole`](https://github.com/filipe-santana-da-silva/devcontrole) — ferramenta interna de controle de usuários e chamados (TypeScript)
+- [`pizzaria-mobile`](https://github.com/filipe-santana-da-silva/pizzaria-mobile) — aplicativo mobile de pedidos para pizzaria (TypeScript)
+- [`politica`](https://github.com/filipe-santana-da-silva/politica) — página de política de privacidade de uma extensão (HTML)
+
+Atualmente em busca de oportunidades como desenvolvedor front-end júnior, freelas ou colaborações com empresas, agências ou empreendedores. Sempre aprendendo e em busca do próximo projeto.
+
+**Contato:** filipesantana859@gmail.com · [LinkedIn](https://www.linkedin.com/in/filipe-santana-bb113332b/) · [Instagram](https://www.instagram.com/landing_dev/)
