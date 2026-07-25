@@ -1,5 +1,7 @@
 <div align="center">
 
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=2468a8&height=120&section=header"/>
+
 # Filipe Santana da Silva
 
 ### Front-end Developer | React · Next.js · TypeScript
