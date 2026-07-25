@@ -37,8 +37,8 @@ Currently open to junior/entry-level front-end roles, freelance work, and collab
 **Contact:** filipesantana859@gmail.com · [LinkedIn](https://www.linkedin.com/in/filipe-santana-bb113332b/) · [Instagram](https://www.instagram.com/landing_dev/)
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=filipe-santana-da-silva&show_icons=true&count_private=true&theme=dracula&hide_border=true" alt="GitHub stats" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=filipe-santana-da-silva&layout=compact&hide_border=true&theme=dracula" alt="Top languages" height="165"/>
+  <img src="https://github-stats-extended.vercel.app/api?username=filipe-santana-da-silva&show_icons=true&count_private=true&theme=dracula&hide_border=true" alt="GitHub stats" height="165"/>
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=filipe-santana-da-silva&layout=compact&hide_border=true&theme=dracula" alt="Top languages" height="165"/>
 </p>
 
 ---
