@@ -4,7 +4,7 @@
 
 # Filipe Santana da Silva
 
-### Front-end Developer | React · Next.js · TypeScript
+### Front-end Developer | React · Next.js · TypeScript · Angular
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&width=435&lines=Front-end+Developer;React+%7C+Next.js+%7C+TypeScript;Building+clean%2C+accessible+interfaces)](https://git.io/typing-svg)
 
